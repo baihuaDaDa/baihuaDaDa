@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing t
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=baihuaDaDa&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baihuaDaDa&theme=react-dark)
 
 ## 🎯 Featured Projects
 
