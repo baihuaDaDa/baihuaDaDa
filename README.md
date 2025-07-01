@@ -38,7 +38,7 @@ Two distinct distributed hash table protocols are implemented in this project: C
 
 ## 🤝 Connect with me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/baihuaDaDa)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/baihuaDaDa)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zhangbohan_wx@sjtu.edu.cn)
 [![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/baihuaDaDa/baihuaDaDa/main/assets/wechat-qr-code.png)
 
