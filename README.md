@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing t
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Agent4Engineering**
-- 🌱 I'm currently learning **cache optimization, Agent and network**
+- 🔭 I'm currently working on **Agent4Engineering** & **Efficient Video Generation**
+- 🌱 I'm currently learning **cache optimization** and also **Diffusion Model, VAE, GAN**
 - 👯 I'm looking to collaborate on **Machine Learning System**
 - 📫 How to reach me: **zhangbohan_wx@sjtu.edu.cn**
 - 😄 Pronouns: **he/him**
