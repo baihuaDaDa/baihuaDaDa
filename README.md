@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing t
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Agent4Engineering** & **Efficient Video Generation**
-- 🌱 I'm currently learning **cache optimization** and also **Diffusion Model, VAE, GAN**
+- 🔭 I'm currently working on **Agent4Engineering** & **Efficient Physical AI Infra**
+- 🌱 I'm currently learning **cache optimization** and also **VLA, WAM**
 - 👯 I'm looking to collaborate on **Machine Learning System**
-- 📫 How to reach me: **zhangbohan_wx@sjtu.edu.cn**
+- 📫 How to reach me: **zhangbohan_wx@sjtu.edu.cn** in China or **bohanzhangbaihuadada@gmail.com** at abroad
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: ***baihua* means seas of blossoms in Chinese, and it comes from my first name**
 
@@ -27,19 +27,30 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing t
 
 ## 🎯 Featured Projects
 
-### [Mx Compiler](https://github.com/baihuaDaDa/Compiler-2024)
+### 🤗 Open-source Projects
+
+#### [LongLive-2.0](https://github.com/NVlabs/LongLive)
+
+An FP4/NVFP4 long-video generation infrastructure with Balanced SP, teacher-forcing layout co-design, W4A4 inference, KV cache compression, parallel dequantization, and asynchronous streaming VAE decoding. The project is now open-sourced by NVIDIA on Github, gaining over **2.5k stars**.
+
+I worked on inference infra part of the system, including KV cache compression, SP Parallelism and asynchronous streaming VAE decoding, improving both speed and memory.
+
+### 🧑‍💻 Personal Projects
+
+#### [Mx Compiler](https://github.com/baihuaDaDa/Compiler-2024)
 A Compiler from Mx language (which is a C++ & Java like language but simplified) to RV32I Assembly via LLVM-IR. Several optimizations have been implemented: Mem2Reg, Linear Scan Register Allocation, Global2Local, Function Inlining, Global Code Motion, Aggressive Dead Code Elimination.
 
-### [RISC-V_32 CPU](https://github.com/baihuaDaDa/RISC-V_CPU_Arch-2024)
+#### [RISC-V_32 CPU](https://github.com/baihuaDaDa/RISC-V_CPU_Arch-2024)
 A Tomasulo RISC-V CPU with iCache and branch predictor with 2-bit saturating counter. The architecture design can be successfully implemented on FPGA board.
 
-### [Distributed Hash Table](https://github.com/baihuaDaDa/DHT-2024)
+#### [Distributed Hash Table](https://github.com/baihuaDaDa/DHT-2024)
 Two distinct distributed hash table protocols are implemented in this project: Chord and Kademlia. Both protocols aim to provide efficient, scalable, and fault-tolerant systems for storing and retrieving (key, value) pairs across a distributed network of nodes.
 
 ## 🤝 Connect with me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/baihuaDaDa)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zhangbohan_wx@sjtu.edu.cn)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bohanzhangbaihuadada@gmail.com)
 [![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/baihuaDaDa/baihuaDaDa/main/assets/wechat-qr-code.png)
 
 ## 💡 Random Dev Quote
