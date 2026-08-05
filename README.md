@@ -13,17 +13,17 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing t
 
 ## 📊 GitHub Stats
 
-![baihuaDaDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=baihuaDaDa&show_icons=true&theme=radical)
+![baihuaDaDa's GitHub stats](https://github-stats-extended.vercel.app/api?username=baihuaDaDa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baihuaDaDa&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=baihuaDaDa&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=baihuaDaDa&theme=onedark)
+![trophy](https://trophy.ryglcloud.net/?username=baihuaDaDa&theme=onedark)
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baihuaDaDa&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baihuaDaDa&theme=react-dark&v=20260805)
 
 ## 🎯 Featured Projects
 
